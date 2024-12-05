@@ -25,7 +25,7 @@ Ayrıca, e-ticaret alanında da faaliyet gösteriyorum. İşletmelerin dijital d
  
 > Projeler: Web uygulamaları, mobil uygulamalar, API geliştirme
  
-> Deneyim: **8 yıl**lık deneyimim var ve sürekli olarak en iyi uygulama standartlarını takip ederek yenilikçi çözümler üretmeye odaklanıyorum.
+> Deneyim: **12 yıl**lık deneyimim var ve sürekli olarak en iyi uygulama standartlarını takip ederek yenilikçi çözümler üretmeye odaklanıyorum.
 
 ## 🎨 Grafik Tasarım
 > Yazılımlar: [Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Adobe InDesign]
