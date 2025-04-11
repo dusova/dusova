@@ -66,7 +66,7 @@ const skills = {
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h3 align="center" style="color:#FF8C00">Sosyal Medya Yönetimi | Social Media Management</h3>
+      <h3 align="center" style="color:#FF8C00">Sosyal Medya Yönetimi | SMM</h3>
       <div align="center" style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:5px; margin:0 10px;">
         <img src="https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white">
         <img src="https://img.shields.io/badge/Facebook-FF8C00?style=for-the-badge&logo=facebook&logoColor=white">
