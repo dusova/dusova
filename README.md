@@ -66,16 +66,17 @@ const skills = {
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h3 align="center" style="color:#FF8C00">Sosyal Medya Yönetimi | SMM</h3>
+      <h3 align="center" style="color:#FF8C00">Sosyal Medya Yönetimi | Social Media Management</h3>
       <div align="center" style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:5px; margin:0 10px;">
         <img src="https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white">
         <img src="https://img.shields.io/badge/Facebook-FF8C00?style=for-the-badge&logo=facebook&logoColor=white">
+        <img src="https://img.shields.io/badge/Twitter-FF8C00?style=for-the-badge&logo=twitter&logoColor=white">
         <img src="https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white">
       </div>
       <div align="center" style="margin-top:10px; display:flex; flex-direction:column;">
-        <span>🎯 İçerik oluşturma | Content creation<br></span>
-        <span>🎯 Topluluk yönetimi | Community management<br></span>
-        <span>🎯 Kampanya planlaması | Campaign planning<br></span>
+        <span>🎯 İçerik oluşturma | Content creation</span>
+        <span>🎯 Topluluk yönetimi | Community management</span>
+        <span>🎯 Kampanya planlaması | Campaign planning</span>
         <span>🎯 Analitik inceleme | Analytics review</span>
       </div>
     </td>
@@ -87,9 +88,9 @@ const skills = {
         <img src="https://img.shields.io/badge/Analytics-FF8C00?style=for-the-badge&logo=google-analytics&logoColor=white">
       </div>
       <div align="center" style="margin-top:10px; display:flex; flex-direction:column;">
-        <span>🎯 Anahtar kelime analizi | Keyword analysis<br></span>
-        <span>🎯 SEO optimizasyonu | SEO optimization<br></span>
-        <span>🎯 PPC kampanyaları | PPC campaigns<br></span>
+        <span>🎯 Anahtar kelime analizi | Keyword analysis</span>
+        <span>🎯 SEO optimizasyonu | SEO optimization</span>
+        <span>🎯 PPC kampanyaları | PPC campaigns</span>
         <span>🎯 Performans takibi | Performance tracking</span>
       </div>
     </td>
