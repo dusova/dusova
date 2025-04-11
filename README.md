@@ -1,5 +1,5 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi there, i'm Mustafa Arda. Welcome back to my profile. <br></h2>
-<img src="./welcome.png" alt="Welcome to dusova's github profile."></img>
+<img src="./banner.gif" alt="Welcome to dusova's github profile."></img>
 <p align="center">
     <a href="https://github.com/dusova" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://www.instagram.com/mdusova/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-191717.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
