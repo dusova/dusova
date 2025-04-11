@@ -70,7 +70,6 @@ const skills = {
       <div align="center" style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:5px; margin:0 10px;">
         <img src="https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white">
         <img src="https://img.shields.io/badge/Facebook-FF8C00?style=for-the-badge&logo=facebook&logoColor=white">
-        <img src="https://img.shields.io/badge/Twitter-FF8C00?style=for-the-badge&logo=twitter&logoColor=white">
         <img src="https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white">
       </div>
       <div align="center" style="margin-top:10px; display:flex; flex-direction:column;">
