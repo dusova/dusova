@@ -62,37 +62,35 @@ const skills = {
 </div>
 
 ## 📱 Dijital Pazarlama | Digital Marketing
-
-<table width="100%">
+<table style="width: 100% !important; min-width:100% !important; table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <td valign="top" width="50%">
-      <h3 align="center" style="color:#FF8C00">Sosyal Medya Yönetimi | Social Media Management</h3>
-      <div align="center" style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:5px; margin:0 10px;">
+    <td valign="top" style="min-width: 50% !important; padding: 100px;">
+      <h3 align="center" style="color:#FF8C00">Sosyal Medya Yönetimi <br> Social Media Management</h3>
+      <div align="center" style="width: 100%; white-space: normal;">
         <img src="https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white">
         <img src="https://img.shields.io/badge/Facebook-FF8C00?style=for-the-badge&logo=facebook&logoColor=white">
-        <img src="https://img.shields.io/badge/Twitter-FF8C00?style=for-the-badge&logo=twitter&logoColor=white">
         <img src="https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white">
       </div>
-      <div align="center" style="margin-top:10px; display:flex; flex-direction:column;">
-        <span>🎯 İçerik oluşturma | Content creation</span>
-        <span>🎯 Topluluk yönetimi | Community management</span>
-        <span>🎯 Kampanya planlaması | Campaign planning</span>
-        <span>🎯 Analitik inceleme | Analytics review</span>
-      </div>
+      <ul align="center" style="list-style-type: none; padding: 0; width: 100%;">
+        <li>🎯 İçerik oluşturma | Content creation</li>
+        <li>🎯 Topluluk yönetimi | Community management</li>
+        <li>🎯 Kampanya planlaması | Campaign planning</li>
+        <li>🎯 Analitik inceleme | Analytics review</li>
+      </ul>
     </td>
-    <td valign="top" width="50%">
-      <h3 align="center" style="color:#FF8C00">SEO & Google Ads</h3>
-      <div align="center" style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:5px; margin:0 10px;">
+    <td valign="top" style="min-width: 50% !important; padding: 100px;">
+      <h3 align="center" style="color:#FF8C00">SEO & Google Ads Yönetimi <br> SEO & Google Ads Management</h3>
+      <div align="center" style="width: 100%; white-space: normal;">
         <img src="https://img.shields.io/badge/Google%20Ads-FF8C00?style=for-the-badge&logo=google-ads&logoColor=white">
         <img src="https://img.shields.io/badge/SEO-FF8C00?style=for-the-badge&logo=google&logoColor=white">
         <img src="https://img.shields.io/badge/Analytics-FF8C00?style=for-the-badge&logo=google-analytics&logoColor=white">
       </div>
-      <div align="center" style="margin-top:10px; display:flex; flex-direction:column;">
-        <span>🎯 Anahtar kelime analizi | Keyword analysis</span>
-        <span>🎯 SEO optimizasyonu | SEO optimization</span>
-        <span>🎯 PPC kampanyaları | PPC campaigns</span>
-        <span>🎯 Performans takibi | Performance tracking</span>
-      </div>
+      <ul align="center" style="list-style-type: none; padding: 0; width: 100%;">
+        <li>🎯 Anahtar kelime analizi | Keyword analysis</li>
+        <li>🎯 SEO optimizasyonu | SEO optimization</li>
+        <li>🎯 PPC kampanyaları | PPC campaigns</li>
+        <li>🎯 Performans takibi | Performance tracking</li>
+      </ul>
     </td>
   </tr>
 </table>
