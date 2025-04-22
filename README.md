@@ -38,8 +38,8 @@ I also create social media strategies to help brands become more visible in the 
 const skills = {
   frontEnd: ["HTML", "CSS", "JavaScript"],
   backEnd: ["PHP", "C#"],
-  database: ["MySQL"],
-  learning: ["Flutter", "Python"],
+  database: ["MySQL", "PostgreSQL"],
+  learning: ["Flutter", "Python", "JAVA"],
   focus: "Creating responsive and user-friendly web experiences"
 };
 ```
