@@ -6,7 +6,7 @@ I build practical software for real operational problems — with a focus on **b
 
 My strongest work comes from turning real workflows into maintainable software: municipal climate-action tracking, inventory and asset operations, virtual-tour platforms, data-analysis tools, and mobile/web products.
 
-[Portfolio](https://codewithmad.com) · [LinkedIn](https://linkedin.com/in/mdusova/) · [Email](mailto:arda@codewithmad.com) · [Repositories](https://github.com/dusova?tab=repositories)
+[Portfolio](https://mdusova.com) · [LinkedIn](https://linkedin.com/in/mdusova/) · [Email](mailto:hello@mdusova.com) · [Repositories](https://github.com/dusova?tab=repositories)
 
 ---
 
@@ -81,6 +81,6 @@ I am especially interested in **backend engineering, GovTech, secure systems, in
 
 ### Contact
 
-- Portfolio: [codewithmad.com](https://codewithmad.com)
+- Portfolio: [mdusova.com](https://mdusova.com)
 - LinkedIn: [linkedin.com/in/mdusova](https://linkedin.com/in/mdusova/)
-- Email: [arda@codewithmad.com](mailto:arda@codewithmad.com)
+- Email: [hello@mdusova.com](mailto:hello@mdusova.com)
