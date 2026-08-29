@@ -1,0 +1,32 @@
+<svg width="800" height="420" viewBox="0 0 800 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="darkSurface" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#1c1c1e"/>
+            <stop offset="100%" style="stop-color:#000000"/>
+        </linearGradient>
+        <clipPath id="projectClip">
+            <rect width="800" height="420" rx="28"/>
+        </clipPath>
+    </defs>
+    <g clip-path="url(#projectClip)">
+        <rect width="800" height="420" rx="28" fill="url(#darkSurface)"/>
+    </g>
+    <rect x="0.5" y="0.5" width="799" height="419" rx="27.5" stroke="rgba(255,255,255,0.1)" fill="none"/>
+    <!-- App Icon -->
+    <rect x="50" y="50" width="72" height="72" rx="18" fill="#2c2c2e"/>
+    <g transform="translate(62, 62)">
+        <path d="M45 32a4 4 0 0 1-4 4H14l-8 8V10a4 4 0 0 1 4-4h31a4 4 0 0 1 4 4z" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    </g>
+    <!-- Title & Description -->
+    <text x="50" y="170" font-family="Inter, -apple-system, sans-serif" font-size="36" font-weight="700" fill="#f5f5f7" letter-spacing="-0.5px">Turkish E-Commerce Analyzer</text>
+    <text x="50" y="205" font-family="Inter, -apple-system, sans-serif" font-size="20" font-weight="400" fill="#86868b">Hybrid NLP engine using TF-IDF and Logistic Regression for Turkish</text>
+    <text x="50" y="235" font-family="Inter, -apple-system, sans-serif" font-size="20" font-weight="400" fill="#86868b">e-commerce reviews. Performs sentiment analysis, spam/bot detection</text>
+    <text x="50" y="265" font-family="Inter, -apple-system, sans-serif" font-size="20" font-weight="400" fill="#86868b">with Gradio web interface.</text>
+    <!-- Badges -->
+    <rect x="50" y="350" width="80" height="36" rx="8" fill="#2C2C2E" stroke="rgba(255,255,255,0.08)"/>
+    <text x="90" y="374" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#ddd" text-anchor="middle">PYTHON</text>
+    <rect x="140" y="350" width="80" height="36" rx="8" fill="#2C2C2E" stroke="rgba(255,255,255,0.08)"/>
+    <text x="180" y="374" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#ddd" text-anchor="middle">GRADIO</text>
+    <rect x="230" y="350" width="60" height="36" rx="8" fill="#2C2C2E" stroke="rgba(255,255,255,0.08)"/>
+    <text x="260" y="374" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#ddd" text-anchor="middle">NLP</text>
+</svg>
